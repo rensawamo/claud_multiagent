@@ -1,5 +1,8 @@
 # 🤖 Tmux Multi-Agent Communication Demo
 
+カスタマイズ　⬇️
+https://github.com/nishimoto265/Claude-Code-Communication
+
 Agent同士がやり取りするtmux環境のデモシステム
 
 ## 🎯 デモ概要
